@@ -1,0 +1,17 @@
+//
+//  Production.xcconfig
+//  GrabDriver
+//
+//  Created by Sandi on 11/30/19.
+//  Copyright © 2019 Sandi. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Targets Support Files/Pods-GrabDriver/Pods-GrabDriver.release (production).xcconfig"
+
+ROOT_URL = https:/$()/www.google.com
+
+APP_NAME = Driver
+APP_BUNDLE_ID = com.demo.void.GrabDriver
